@@ -54,5 +54,6 @@ import kaolin
 !sudo python setup.py develop
 
 %cd /home/ubuntu/vid2avatar/code
+# !python train.py
 !python test.py
 ```
