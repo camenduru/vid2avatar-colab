@@ -15,6 +15,7 @@ Before training, make sure that the `metaninfo` in the data config file `/code/c
 cd code
 python train.py
 ```
+The training usually takes 24-48 hours. The validation results can be found at `outputs/`.
 
 ## Main Repo
 https://github.com/MoyGcc/vid2avatar
