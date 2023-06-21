@@ -27,6 +27,7 @@ https://moygcc.github.io/vid2avatar/
 https://arxiv.org/abs/2302.11566
 
 ## License
+https://github.com/MoyGcc/vid2avatar/blob/main/LICENSE
 
 ## Output
 
