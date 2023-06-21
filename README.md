@@ -9,6 +9,13 @@
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/vid2avatar-colab/blob/main/vid2avatar_colab.ipynb) | vid2avatar_colab (>16GB VRAM 🦒 Pro Colab)
 
+## Training
+Before training, make sure that the `metaninfo` in the data config file `/code/confs/dataset/video.yaml` does match the expected training video. You can also continue the training by changing the flag `is_continue` in the model config file `code/confs/model/model_w_bg`. And then run:
+```
+cd code
+python train.py
+```
+
 ## Main Repo
 https://github.com/MoyGcc/vid2avatar
 
