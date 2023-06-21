@@ -30,6 +30,7 @@ https://arxiv.org/abs/2302.11566
 https://github.com/MoyGcc/vid2avatar/blob/main/LICENSE
 
 ## Output
+https://github.com/camenduru/vid2avatar-colab/assets/54370274/9022a576-a65f-4a4a-9410-3257ec971e99
 
 For python 3.8 (lambdalabs, runpod ...)
 ```py
